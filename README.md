@@ -1,5 +1,5 @@
 # MiniSQLEngine
-# Name Suraj Kannayyagari
+# Developer Name: Suraj Kannayyagari
 # Language used 'JAVA'
 # 'SQL Engine' is source code for the application
 
